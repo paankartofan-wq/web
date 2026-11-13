@@ -44,7 +44,7 @@ a:hover{
 }
 
 a:visited {
-    box-shadow: blueviolet 1px 1px 1px;
+    box-shadow:1px 1px 1px;
     color:blueviolet;
 
 }
