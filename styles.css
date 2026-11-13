@@ -45,7 +45,9 @@ a:hover{
 }
 
 a:visited {
+    box-shadow: blueviolet;
     color:blueviolet;
+
 }
 
 a:active{
